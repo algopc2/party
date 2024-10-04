@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+
+
+header{
+    background-color: lightblue;
+    padding: 10PX;
+}
+h1 {
+    text-align: center;
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+footer p{
+    border: 5px solid red;
+    margin: 12px;
+    
+}
+
+nav a{
+    border: 1px solid blue;
+    border-radius: 10px;
+    padding: 15px;
+    background-color: blueviolet;
+    margin: 16px;
+    text-decoration: solid;
+    text-align: inherit;
+    color: white;
+
+
+}
+
+
+nav{
+    text-align: end;
+    margin: 17px;
+}
+
+
+.fon{
+    background-color: brown;
+    border: 2px solid brown;
+    border-radius: 15px;
+    color: aquamarine;
+}
